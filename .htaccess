@@ -92,6 +92,8 @@ DirectoryIndex index.php index.html index.htm
    RewriteCond %{HTTP_HOST} .
    RewriteCond %{HTTP_HOST} !^www\. [NC]
    RewriteRule ^ http%{ENV:protossl}://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+  # 301 rewrite for all prefixed language nodes to their own domain
+   RewriteRule ^en/(.*)$ http://tik-ke.com/$1 [L,R=301]
   #
   # To redirect all users to access the site WITHOUT the 'www.' prefix,
   # (http://www.example.com/... will be redirected to http://example.com/...)
