@@ -94,7 +94,7 @@ DirectoryIndex index.php index.html index.htm
    RewriteCond %{HTTP_HOST} !^www\. [NC]
    RewriteRule ^ http%{ENV:protossl}://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
   # 301 rewrite for all prefixed language nodes to their own domain
-   RewriteRule ^en/(.*)$ http://tik-ke.com/$1 [L,R=301]
+  # RewriteRule ^en/(.*)$ http://tik-ke.com/$1 [L,R=301]
 =======
   # RewriteCond %{HTTP_HOST} .
   # RewriteCond %{HTTP_HOST} !^www\. [NC]
