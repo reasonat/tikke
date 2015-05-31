@@ -1391,7 +1391,7 @@
 <div><strong style="text-align:left"><span style="color: #FE4E5B;"><span style="font-size:18px">בלוג תכנים</span></span></strong></div>
 
 <div><span style="line-height:1.6em"><font color="#696969">הבלוג שלנו מציע מגוון רחב של תכנים שיכולים לעניין אותך לקראת פיתוח אתר האינטרנט הבא שלך.&nbsp;<br>
-<a href="http://newtikke.tikkewebsites.com/blog" target="_blank" style="word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;">כניסה לבלוג</a></font></span></div>
+<a href="http://www.tikke.co.il/node/3" target="_blank" style="word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;">כניסה לבלוג</a></font></span></div>
 </div>
 
         </td>
@@ -1433,7 +1433,7 @@
         <td class="mcnTextContent" valign="top" style="padding: 0 9px 0 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 150%;text-align: left;" width="164">
             <div dir="rtl" style="text-align: right;"><font color="#fe4e5b" size="4"><strong>למה חנות מקוונת?</strong></font><br>
 <span style="color: #696969;text-align: right;">מערכת החנות המקוונת שלנו מציעה מגוון אפשרויות שיכולות לקדם את המכירות שלכם ואת העסק שלכם.<br>
-<a href="http://newtikke.tikkewebsites.com/commerce" target="_blank" style="word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;">להמשך קריאה</a></span></div>
+<a href="http://www.tikke.co.il/node/12" target="_blank" style="word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;">להמשך קריאה</a></span></div>
 
         </td>
     </tr>
@@ -1473,7 +1473,7 @@
     <tr>
         <td class="mcnTextContent" valign="top" style="padding: 0 9px 0 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 150%;text-align: left;" width="164">
             <div dir="rtl" style="text-align: right;"><strong><span style="color:#fe4e5b"><span style="font-size:18px">תיק העבודות שלנו</span></span></strong><br>
-<span style="color:#696969">לבינתיים כניסה לעמוד הפרויקטים שלנו יכולה לאפשר לך לראות מה עשינו. לקריאת&nbsp;ניתוחי מקרה מעניינים&nbsp;על האתרים המורכבים יותר <a href="http://newtikke.tikkewebsites.com/works" target="_blank" style="word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;">לחצו כאן</a>.</span></div>
+<span style="color:#696969">לבינתיים כניסה לעמוד הפרויקטים שלנו יכולה לאפשר לך לראות מה עשינו. לקריאת&nbsp;ניתוחי מקרה מעניינים&nbsp;על האתרים המורכבים יותר <a href="http://www.tikke.co.il/node/2" target="_blank" style="word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;">לחצו כאן</a>.</span></div>
 
         </td>
     </tr>
